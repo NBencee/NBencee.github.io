@@ -39,10 +39,7 @@ Tudom és érzem, hogy gondolod
 Nehéz kiszállni, ha száguld és így forog  
 A hétköznapok lapokra szednek szét  
 Fekete fehér lesz, nem színes a kép  
-Ne feledd azonban, szíved titkok otthona  
-Ólomból aranyat olvasztó mágia  
-Mert ahol van gyógyít, amíg van szépít  
-A mosoly varázsol...  
+
 A Föld, mint egy album  
 Az albumban fényképek az emberek  
 A képekre Isten azt írta, hogy:"Csak örömmel nézheted  
