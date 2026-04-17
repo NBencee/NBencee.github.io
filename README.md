@@ -32,7 +32,7 @@ Sziasztok! Itt találhatjátok a szerenád zenéit összevágva, alatta pedig a 
 
 ---
 
-<h3 id="kowalsky-mosolydal">Kowalsky meg a Vega - Mosolydal - [A tetejére](#top)</h3>
+<h3 id="kowalsky-mosolydal">Kowalsky meg a Vega - Mosolydal - <a href="#top">A tetejére</a></h3>
 Tudom és érzem, hogy gondolod
 Nehéz kiszállni, ha száguld és így forog
 A hétköznapok lapokra szednek szét
@@ -57,7 +57,7 @@ A képeket nézve megérted, hogy
 A haragra fakul és a mosolytól lesz színesebb...a mosolytól színesebb!
 
 
-### Beatrice - Azok a boldog szép napok {#beatrice-boldog-napok} - [A tetejére](#top)
+<h3 id="beatrice-boldog-napok">Beatrice - Azok a boldog szép napok - <a href="#top">A tetejére</a></h3>
 Már csak emlék
 Mikor még nem voltál
 Az volt az igazi nyár
@@ -80,7 +80,7 @@ Azok a boldog, szép napok, ég veled
 Te nem tudod, milyen jó nélküled
 
 
-### Mohamed Fatima- Ragyog a szívem {#fatima-ragyog} - [A tetejére](#top)
+<h3 id="fatima-ragyog">Mohamed Fatima- Ragyog a szívem - <a href="#top">A tetejére</a></h3>
 Láttam egy felhőt
 szépen, csendben felnőtt
 Fogtam egy ernyőt,
@@ -95,7 +95,7 @@ Hagyom, hogy elringasd magad
 Zene szól a szíved alatt
 
 
-### KFT – Afrika {#kft-afrika} - [A tetejére](#top)
+<h3 id="kft-afrika">KFT – Afrika - <a href="#top">A tetejére</a></h3>
 Ha meguntam, hogy mindig itt legyek
 Majd utazgatok, mert utazni élvezet
 De szóba se jöhet Skandinávia
@@ -115,7 +115,7 @@ szavannák, fekete nők
 Ó-ó-ó, Afrika!
 
 
-### VZS - VÁRJ MEG {#vzs-varj-meg} - [A tetejére](#top)
+<h3 id="vzs-varj-meg">VZS - VÁRJ MEG - <a href="#top">A tetejére</a></h3>
 Állj meg ne siess kérlek várj meg
 Ne játszd az eszedet bújj hozzám
 Valamit mondj már szólj hozzám
@@ -124,7 +124,7 @@ Ne játszd az eszedet bújj hozzám
 Valamit mondj már szólj hozzám
 
 
-### Ákos - Ilyenek voltunk {#akos-ilyenek-voltunk} - [A tetejére](#top)
+<h3 id="akos-ilyenek-voltunk">Ákos - Ilyenek voltunk - <a href="#top">A tetejére</a></h3>
 Előtted nem titok,
 Hogy nem voltunk angyalok.
 És úgy, mintha nem fájna semmi kín,
@@ -137,7 +137,7 @@ Ilyenek voltunk, és marad egy jel,
 Amit itt hagyunk, ha indulni kell.
 
 
-### Bagossy Brothers Company - Visszajövök {#bagossy-visszajovok} - [A tetejére](#top)
+<h3 id="bagossy-visszajovok">Bagossy Brothers Company - Visszajövök - <a href="#top">A tetejére</a></h3>
 Visszajövök én egyszer még
 Az esőt, ha elfújja a szél
 Minden ember hazatér
@@ -161,7 +161,7 @@ Csak az kell, hogy jó legyél
 Hogy te mindig itt legyél!
 
 
-### Bye Alex - Széllel szemben {#byealex-szellel-szemben} - [A tetejére](#top)
+<h3 id="byealex-szellel-szemben">Bye Alex - Széllel szemben - <a href="#top">A tetejére</a></h3>
 Mindig széllel szemben állj
 Mindig széllel szemben élj
 Mindig széllel szemben járj
@@ -180,7 +180,7 @@ Mindig széllel szemben járj
 Legyél szikla, legyél vér
 
 
-### ByeAlex és a Slepp - Még mindig... {#byealex-slepp-meg-mindig} - [A tetejére](#top)
+<h3 id="byealex-slepp-meg-mindig">ByeAlex és a Slepp - Még mindig... - <a href="#top">A tetejére</a></h3>
 Még mindig rólad írok dalt,
 úgy érzem te vagy minden hang.
 De minden hang...
@@ -200,7 +200,7 @@ Tán nem szeretsz...
 Még mindig rólad írok dalt (4x)
 
 
-### Dzsúdló - Egyszerű {#dzsudlo-egyszeru} - [A tetejére](#top)
+<h3 id="dzsudlo-egyszeru">Dzsúdló - Egyszerű - <a href="#top">A tetejére</a></h3>
 Várj, vagy fuss
 És énekeljük azt a régi klasszikust
 Sírjuk vissza rá az üres zsákutcát
@@ -264,7 +264,7 @@ Fognám örökké az ifjúságot
 Mennyire kár, hogy ez nem ilyen egyszerű
 
 
-### Follow The Flow - Maradok távol {#ftf-maradok-tavol} - [A tetejére](#top)
+<h3 id="ftf-maradok-tavol">Follow The Flow - Maradok távol - <a href="#top">A tetejére</a></h3>
 Nem lesz több üzenet
 Itt hagyom mindenemet
 Megyek, amíg van erőm
@@ -289,7 +289,7 @@ Ha a múltat nem tudom jóvátenni
 Maradok távol
 
 
-### Halott Pénz - Amikor feladnád {#halott-penz-feladnad} - [A tetejére](#top)
+<h3 id="halott-penz-feladnad">Halott Pénz - Amikor feladnád - <a href="#top">A tetejére</a></h3>
 Én ott leszek, mikor feladnád
 Amikor a fejedet lehajtanád
 Én már nem hagylak el, mert
@@ -300,7 +300,7 @@ Amikor a fejedet lehajtanád
 Az életem összenőtt veled teljesen
 
 
-### Konyha - Százszor visszajátszott {#konyha-szazszor} - [A tetejére](#top)
+<h3 id="konyha-szazszor">Konyha - Százszor visszajátszott - <a href="#top">A tetejére</a></h3>
 Vállad a párnám, sokáig várt rám
 Már sehova se rohanok
 A tegnap az álmom, a csengőhang
@@ -321,7 +321,7 @@ Maradok százegyedszer is még, százegyedszer is
 Akarom veled ezt még
 
 
-### Mi vagyunk a Grund {#grund} - [A tetejére](#top)
+<h3 id="grund">Mi vagyunk a Grund - <a href="#top">A tetejére</a></h3>
 Nagy a világ, az égig ér
 De van ez a föld, ami a kezünkbe fér
 Itt nevet a nap sugara ránk
@@ -354,7 +354,7 @@ Miért félnénk, miért élnénk,
 Ha nem egy álomért?
 
 
-### 4S Street - Mesélek a bornak {#4sstreet-bor} - [A tetejére](#top)
+<h3 id="4sstreet-bor">4S Street - Mesélek a bornak - <a href="#top">A tetejére</a></h3>
 Nagy a világ, az égig ér
 De van ez a föld, ami a kezünkbe fér
 Itt nevet a nap sugara ránk
@@ -387,7 +387,7 @@ Miért félnénk, miért élnénk,
 Ha nem egy álomért?
 
 
-### Ismerős Arcok - Nélküled {#ismeros-arcok-nelkuled} - [A tetejére](#top)
+<h3 id="ismeros-arcok-nelkuled">Ismerős Arcok - Nélküled - <a href="#top">A tetejére</a></h3>
 Annyi mindent kéne még elmondanom
 S ha nem teszem, talán már nem is lesz rá alkalom
 Hogy elmeséljem, milyen jó, hogy itt vagyunk
@@ -410,7 +410,7 @@ Hogy történjen bármi, amíg élünk s meghalunk
 Mi egy vérből valók vagyunk
 
 
-### Quimby - Most múlik pontosan {#quimby-most-mulik} - [A tetejére](#top)
+<h3 id="quimby-most-mulik">Quimby - Most múlik pontosan - <a href="#top">A tetejére</a></h3>
 Most múlik pontosan,
 Engedem hadd menjen
 Szaladjon kifelé belőlem
@@ -421,7 +421,7 @@ Villámlik mennydörög
 ez tényleg szerelem.
 
 
-### Anna and the Barbies - Márti dala {#anna-barbies-marti} - [A tetejére](#top)
+<h3 id="anna-barbies-marti">Anna and the Barbies - Márti dala - <a href="#top">A tetejére</a></h3>
 Kezdjetek el élni, hogy legyen mit mesélni!
 Majd az unokáknak, mikor körbeállnak,
 mikor körbeállnak, az ágyadon ugrálnak,
