@@ -5,6 +5,7 @@ Sziasztok! Itt találhatjátok a szerenád zenéit összevágva, alatta pedig a 
 
 
 <audio src="https://github.com/NBencee/NBencee.github.io/raw/refs/heads/main/szerenad_ver2.m4a" controls></audio>
+[Zene letöltése](https://github.com/NBencee/NBencee.github.io/raw/refs/heads/main/szerenad_ver2.m4a)
 
 ## Dalszövegek
 [Dalszövegek letöltése](https://github.com/NBencee/NBencee.github.io/raw/refs/heads/main/szerenad.docx)
