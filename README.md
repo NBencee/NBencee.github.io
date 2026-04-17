@@ -7,6 +7,7 @@ Sziasztok! Itt találhatjátok a szerenád zenéit összevágva, alatta pedig a 
 <audio src="https://github.com/NBencee/NBencee.github.io/raw/refs/heads/main/szerenad_ver2.m4a" controls></audio>
 
 ## Dalszövegek
+[Dalszövegek letöltése](https://github.com/NBencee/NBencee.github.io/raw/refs/heads/main/szerenad.docx)
 
 ### Tartalomjegyzék
 
@@ -31,7 +32,7 @@ Sziasztok! Itt találhatjátok a szerenád zenéit összevágva, alatta pedig a 
 
 ---
 
-### Kowalsky meg a Vega - Mosolydal {#kowalsky-mosolydal} - [A tetejére](#top)
+<h3 id="kowalsky-mosolydal">Kowalsky meg a Vega - Mosolydal - [A tetejére](#top)</h3>
 Tudom és érzem, hogy gondolod
 Nehéz kiszállni, ha száguld és így forog
 A hétköznapok lapokra szednek szét
