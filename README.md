@@ -1,5 +1,5 @@
 # Szerenád zenék összevágva {#top}
-Sziasztok! Itt találhatjátok a szerenád zenéit összevágva, alatta pedig a zenék címét (később talán a dalszöveget is.)
+Sziasztok! Itt találhatjátok a szerenád zenéit összevágva, alatta pedig a zenék címét és a dalszövegüket is sorrendben.
 
 *Hibát találtál?* Írj messengeren vagy igazából bárhol és javítom!
 
