@@ -348,36 +348,30 @@ Ha nem egy álomért?
 
 
 <h3 id="4sstreet-bor">4S Street - Mesélek a bornak - <a href="#top">A tetejére</a></h3>
-Nagy a világ, az égig ér  
-De van ez a föld, ami a kezünkbe fér  
-Itt nevet a nap sugara ránk  
-Rajzol egy pályát a deszkapalánk  
-És a tér, és a nyár, és a fák, az akác  
-És a kert, és a ház, és a házból a srác  
-Te meg én ugye szét soha nem szakadunk  
-Gyere mond, hogy a grund mi vagyunk  
-Álljunk bele, ha kell, bármi jöjjön is el  
-Legyen szabad a grund  
-Véssük ide ma fel, hogy megmarad ez a hely  
-Vagy egyszer belehalunk  
-Nagy a világ, és rá se ránt,  
-Hogy errefelé a követ ki veti ránk  
-Ha közel a vész, nem remeg a szánk  
-Lefogjuk győzni nekünk ez a hazánk  
-Ez a pad, ez a fal, ez a pár farakás  
-Ez a dal, ahogy nő, ez a szívdobogás  
-Ez a jel, innen el soha nem szaladunk  
-Gyere mond, hogy a grund mi vagyunk  
-Álljunk bele, ha kell, bármi jöjjön is el  
-Legyen szabad a grund  
-Véssük ide ma fel, hogy megmarad ez a hely  
-Vagy egyszer belehalunk  
-Miért félnénk, miért élnénk, Ha nem egy álomért?  
-Miért félnénk, miért élnénk,  
-Ha nem egy álomért?  
-Miért félnénk, miért élnénk, Ha nem egy álomért?  
-Miért félnénk, miért élnénk,  
-Ha nem egy álomért?  
+Mesélek a bornak, már hallani is unja  
+Hajnalokon át két kezemet fogja  
+Kérdi mi van veled,  
+Ő még itt van, vagy már  
+Ég veled?  
+Mesélek a bornak, itt van, hogy ha kell  
+Kezét a kezembe és én így múlnék el  
+Vezess jó Uram, ha netán rosszabb útra tévedek  
+Jó ez a hely  
+Ha az ember messze menne, el ne feledje a házát,  
+Merre tart és honnan érkezett, siratja bús magányát  
+Ha az ember messze menne, el ne feledje a házát  
+S annak melegét mi visszavár  
+Mesélek apámnak, mindig itt van hogyha kell,  
+Büszkén búcsút int, mert fia ismét útra kel  
+Borban él az igazság, ezért én most elmegyek  
+Messze járok már idegen földön ébredek,  
+Hátam mögött fenyvesek előttem tengerek  
+"Látogass felém fiam, ameddig én még itt vagyok"  
+Messzi szép hazámra gondolok  
+Ha az ember messze menne, el ne feledje a házát,  
+Merre tart és honnan érkezett, siratja bús magányát  
+Ha az ember messze menne, el ne feledje a házát  
+S annak melegét mi visszavár  
 
 
 <h3 id="ismeros-arcok-nelkuled">Ismerős Arcok - Nélküled - <a href="#top">A tetejére</a></h3>
