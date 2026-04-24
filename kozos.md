@@ -1,4 +1,5 @@
 # Közös szerenád zenéi
+*A zenék a három pöttyre kattintva letölthetőek.*
 
 ## Kisfilm előtti rész:
 <audio src="https://github.com/NBencee/NBencee.github.io/raw/refs/heads/main/kozos_part1.m4a" controls></audio>
@@ -7,6 +8,7 @@
 <audio src="https://github.com/NBencee/NBencee.github.io/raw/refs/heads/main/kozos_part2.m4a" controls></audio>
 
 ## Dalszövegek
+A dalszövegek [ide kattintva](https://github.com/NBencee/NBencee.github.io/raw/refs/heads/main/kozos_szoveg_updated.docx) letölthetőek.
 
 ## Tartalomjegyzék
 * [Mi vagyunk a Grund](#mivagyunkagrund)
