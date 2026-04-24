@@ -3,6 +3,7 @@ Sziasztok! Itt találhatjátok a szerenád zenéit összevágva, alatta pedig a 
 
 *Hibát találtál?* Írj messengeren vagy igazából bárhol és javítom!
 
+*A közös verziót keresed?* [Ide kattintva](https://nbencee.github.io/kozos) megtalálod!
 
 <audio src="https://github.com/NBencee/NBencee.github.io/raw/refs/heads/main/szerenad_ver2.m4a" controls></audio>
 [Zene letöltése](https://github.com/NBencee/NBencee.github.io/raw/refs/heads/main/szerenad_ver2.m4a)
