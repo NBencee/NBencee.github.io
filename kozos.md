@@ -23,7 +23,7 @@ A dalszövegek [ide kattintva](https://github.com/NBencee/NBencee.github.io/raw/
 
 <h3 id="mivagyunkagrund">Mi vagyunk a Grund - <a href="#top">A tetejére</a></h3>
 Nagy a világ, az égig ér  
-De van ez a föld, ami a kezünkbe fér  
+De van ez a föld, ami kezünkbe fér  
 Itt nevet a nap sugara ránk  
 Rajzol egy pályát a deszkapalánk  
 És a tér, és a nyár, és a fák, az akác  
@@ -38,9 +38,6 @@ Vagy egyszer belehalunk
 Legyen szabad a grund (Ha nem egy álomért?)  
 Véssük ide ma fel, hogy megmarad ez a hely (Miért félnénk, miért élnénk?)  
 Vagy egyszer belehalunk (Ha nem egy álomért?) :||  
-Miért félnénk, miért élnénk, Ha nem egy álomért?  
-Miért félnénk, miért élnénk,  
-Ha nem egy álomért?  
 Miért félnénk, miért élnénk, Ha nem egy álomért?  
 Miért félnénk, miért élnénk,  
 Ha nem egy álomért?  
@@ -67,14 +64,14 @@ A képekre Isten azt írta, hogy: „Csak örömmel nézheted”
 A Föld csak egy album  
 Az albumban fényképek az emberek  
 A képeket nézve megérted, hogy  
-A haragra fakul és a mosolytól lesz színesebb...a mosolytól színesebb!  
+A haragra fakul és a mosolytól lesz színesebb!  
 A Föld, mint egy album  
 Az albumban fényképek az emberek  
 A képekre Isten azt írta, hogy: „Csak örömmel nézheted”  
 A Föld csak egy album  
 Az albumban fényképek az emberek  
 A képeket nézve megérted, hogy  
-A haragra fakul és a mosolytól lesz színesebb...a mosolytól színesebb!  
+A haragra fakul és a mosolytól lesz színesebb!  
 
 *(Első rész vége – itt jön a kisfilm)*
 
@@ -123,7 +120,7 @@ Kezdjetek nevetni, csak semmi melodráma!
 Senki bele nem halt még komédiába.  
 Ripacsok, színészek, az élet a tiétek!  
 Minek ölre menni, kezdjetek szeretni!  
-[F] Kezdjetek el élni, hogy ne kelljen félni.  
+[L] Kezdjetek el élni, hogy ne kelljen félni.  
 [F] Az utolsó órában, mikor már megbántam.  
 [L] Ezerszer megbántam, hogy oly sokáig vártam,  
 [F] hogy elmúlt az élet, [E] kezdjetek el élni!  
